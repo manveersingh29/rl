@@ -1,0 +1,30 @@
+
+SIMULATION START ==> 30/08/2023 02:47:44
+
+
+---------------------------------------
+
+Episode 1 ==> CRASH {-0.24,-0.09,59.79}    30/08/2023 02:47:51
+episode time: 6.87 s (avg step: 0.22 s) 
+episode steps: 31 
+episode reward: -107.80 
+episode max | avg | min reward: 0.00 | -3.59 | -100.00 
+T = 25.000000 
+
+---------------------------------------
+
+Episode 2 ==> CRASH {-0.25,-0.08,62.72}    30/08/2023 02:47:58
+episode time: 6.56 s (avg step: 0.21 s) 
+episode steps: 31 
+episode reward: -108.40 
+episode max | avg | min reward: 0.00 | -3.61 | -100.00 
+T = 23.750000 
+
+---------------------------------------
+
+Episode 3 ==> CRASH {-0.27,0.01,63.55}    30/08/2023 02:48:05
+episode time: 7.17 s (avg step: 0.21 s) 
+episode steps: 34 
+episode reward: -102.80 
+episode max | avg | min reward: 0.40 | -3.12 | -100.00 
+T = 22.562500 

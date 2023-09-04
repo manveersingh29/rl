@@ -1,0 +1,8 @@
+prefix=/home/manveer/research_ws/install
+
+Name: master_rad
+Description: Description of master_rad
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
