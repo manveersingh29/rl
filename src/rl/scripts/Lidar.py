@@ -5,14 +5,14 @@ from math import *
 from std_msgs.msg import String
 from sensor_msgs.msg import LaserScan
 
-MAX_LIDAR_DISTANCE = 1.0
-COLLISION_DISTANCE = 0.14 # LaserScan.range_min = 0.1199999
-NEARBY_DISTANCE = 0.45
+MAX_LIDAR_DISTANCE = 2.0
+COLLISION_DISTANCE = 0.12 # LaserScan.range_min = 0.1199999
+NEARBY_DISTANCE = 0.3
 
 ZONE_0_LENGTH = 0.4
 ZONE_1_LENGTH = 0.7
 
-ANGLE_MAX = 360 - 1
+ANGLE_MAX = 120 - 1
 ANGLE_MIN = 1 - 1
 HORIZON_WIDTH = 75
 
