@@ -7,8 +7,8 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 
 import sys
-DATA_PATH = '/home/manveer/research_ws/src/rl/Data'
-MODULES_PATH = '/home/manveer/research_ws/src/rl/scripts'
+DATA_PATH = '/home/pi/rl/src/rl/Data'
+MODULES_PATH = '/home/pi/rl/src/rl/scripts'
 sys.path.insert(0, MODULES_PATH)
 
 from Qlearning import *
